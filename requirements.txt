@@ -1,12 +1,9 @@
 streamlit
-numpy
-pandas
-torch
 tensorflow
+torch
 transformers
 scikit-learn
-matplotlib
+pandas
+numpy
 joblib
 bnltk
-tqdm
-seaborn
