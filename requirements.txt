@@ -15,4 +15,5 @@ torch==1.13.1
 transformers==4.30.2
 tensorflow==2.11.0
 
-bnltk==0.0.4
+bnltk==0.7.8
+
