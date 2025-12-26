@@ -1,7 +1,9 @@
-streamlit==1.31.1
+streamlit==1.29.0
 
 setuptools==65.5.1
 wheel
+
+protobuf==3.19.6
 
 numpy==1.23.5
 pandas==1.5.3
@@ -15,4 +17,4 @@ torch==1.13.1
 transformers==4.30.2
 tensorflow==2.11.0
 
-bnltk==0.0.4
+bnltk==0.7.8
